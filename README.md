@@ -3,4 +3,5 @@ A digital frequency counter based on Arduino Uno and 16x2 LCD reaching up to 50K
 
 Tutorial can be found at http://runtimeprojects.com/2016/02/arduino-frequency-counter-with-16x2-lcd-display/
 
-[] The code requires comments
+Buy me a beer using Bitcoin
+## [163anEKNWhuRuv1srtPcvzEw7iLPQnz1qr](bitcoin:163anEKNWhuRuv1srtPcvzEw7iLPQnz1qr)
